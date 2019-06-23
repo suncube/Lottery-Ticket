@@ -9,7 +9,3 @@
 The mechanic like scratching lottery ticket. Made with shader mask and realtime drawing of this mask, through the render texture.
 
 [![Preview](/ReadmeSource/priview1.gif)](https://youtu.be/AGCmIX1N_B8)
-
-#
-
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.donationalerts.com/r/suncube)
